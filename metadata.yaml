@@ -1,5 +1,8 @@
 _repo: Twinkle-Toes-and-His-Magic-Mittens_67279
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67279-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Morgan, F. R.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '3469'
     url: http://www.gutenberg.org/2009/agents/3469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67279#Twinkle-Toes-and-His-Magic-Mittens
 gutenberg_issued: '2022-01-29'
 identifiers:
   gutenberg: '67279'
